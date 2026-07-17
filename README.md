@@ -19,7 +19,7 @@ high-conversion web experiences. I build constantly and in the open.
 | Project | What it is |
 | --- | --- |
 | [sessionloom](https://github.com/richducat/sessionloom) | Open-source macOS auth broker for AI agents — scoped browser actions in your real Chrome with no password/cookie export. SwiftUI control center + policy-enforcing MCP server + MV3 bridge, Keychain-paired. Apache-2.0. |
-| [Content Factory](https://eb28.co/content-factory/) *(commercial)* | AI social-content engine I built and operate — multi-brand content generation, on-brand asset rendering, Buffer scheduling, fully automated daily cycles. |
+| [Content Factory](https://eb28.co/content-factory/) *(commercial)* | AI social-content engine I built and operate — multi-brand content generation, on-brand asset rendering, Buffer scheduling, fully automated daily cycles. Free starter: [content-factory-lite](https://github.com/richducat/content-factory-lite). |
 | [paid-media-buyer-pro](https://github.com/richducat/paid-media-buyer-pro) | AI paid-media generator — ad hooks, UGC scripts, copy & keyword packs, 4-week test plans with Meta/Google mockups, Stripe. |
 | [bureau-agents](https://github.com/richducat/bureau-agents) | Marketplace for autonomous AI agents — task routing, milestone escrow, Stripe Connect payouts, dispute handling. |
 | [tyfys-benefits](https://github.com/richducat/tyfys-benefits) | Veteran self-serve benefits app — React/Vite + Express, 14-stage tracker state machine, Zoho CRM automation. |
